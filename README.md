@@ -19,6 +19,14 @@ Solvers Used
 1. **SCIP** via `PySCIPOpt`
 2. **GUROBI** via `GUROBIPY`
 
+Contributors:
+Defne Akter
+Mukhil Sarvesh
+Miguel Barcenas
+Prajwal Uday
+Rudra Singh
+Sushreeta Pal
+
 ---
 
 ##  Data licence — read before sharing
