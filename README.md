@@ -19,7 +19,7 @@ Solvers Used
 1. **SCIP** via `PySCIPOpt`
 2. **GUROBI** via `GUROBIPY`
 
-Contributors:
+**Contributors:**
 Defne Akter |
 Mukhil Sarvesh |
 Miguel Barcenas |
