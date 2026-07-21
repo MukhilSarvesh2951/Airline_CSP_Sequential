@@ -15,7 +15,9 @@ industry decomposition:
    rest rules, absences, off-day claims and a finite standby/reserve pool. Solved as
    an assignment MIP.
 
-Both stages use **SCIP** via `PySCIPOpt`.
+Solvers Used
+1. **SCIP** via `PySCIPOpt`
+2. **GUROBI** via `GUROBIPY`
 
 ---
 
