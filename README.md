@@ -20,11 +20,11 @@ Solvers Used
 2. **GUROBI** via `GUROBIPY`
 
 Contributors:
-Defne Akter
-Mukhil Sarvesh
-Miguel Barcenas
-Prajwal Uday
-Rudra Singh
+Defne Akter |
+Mukhil Sarvesh |
+Miguel Barcenas |
+Prajwal Uday |
+Rudra Singh |
 Sushreeta Pal
 
 ---
