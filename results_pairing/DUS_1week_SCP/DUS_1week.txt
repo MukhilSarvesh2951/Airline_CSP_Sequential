@@ -1,0 +1,36 @@
+[Stage 1] Pairing (branch-and-price) ...
+  [pairing] DUS 2025-04-27..2025-05-03: 3070 legs total, 2882 reachable from DUS
+  [pairing] 586 pairings, 2830/2882 covered, EUR 786,563, timelimit, 23999.6s
+          -> 586 pairings, EUR 786,563, timelimit
+  [saved] pairings_DUS_20260719_2004.csv (586 rows)
+
+[Stage 2] Rostering (assignment MIP) ...
+          -> status optimal, 1301.4s
+
+==============================================================================
+RESULTS
+==============================================================================
+  PAIRING
+    pairings               : 586  (loaded from pairings_DUS_20260719_2004.csv)
+    crew cost              : EUR 786,562.80
+    legs covered           : 2830/2830 reachable
+  ROSTERING
+    captains at DUS         : 153
+    assigned to line captains : 293/586
+    covered by RESERVE pool   : 78/78 (pro-rated from monthly standby)
+    still UNCOVERED           : 215   <-- gap beyond line + reserve capacity
+    captains used          : 153/153
+    off-claims MAD         : 5.16 days   (1/153 captains hit target exactly)
+    soft off-request days  : 73 requested
+
+  NOTE ON UNCOVERED PAIRINGS
+    215 pairings remain uncovered even after using the
+    full reserve budget (78 shifts). Most pairings span
+    the whole 7-day window; only 134/153 captains are
+    fully available, and the pro-rated reserve pool covers 78 more.
+    The residual 215 is a genuine crew-capacity shortfall for
+    this window -- it would require additional reserves or schedule change.
+
+  wall time: 1322.1s
+
+  Exported: roster_DUS_20260719_2129.csv, captains_DUS_20260719_2129.csv, summary_DUS_20260719_2129.csv

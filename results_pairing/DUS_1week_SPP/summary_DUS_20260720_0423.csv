@@ -1,0 +1,2 @@
+base,window,legs_total,legs_reachable,legs_covered,n_pairings,crew_cost,status,converged,secs,pricing_rounds,columns_generated,columns_pruned,ryan_foster_branches,roster_base,roster_window,roster_horizon_days,roster_captains,roster_pairings,roster_assigned_line,roster_reserve_budget,roster_reserve_used,roster_unassigned,roster_status,roster_objective,roster_secs
+DUS,2025-04-27..2025-05-03,3070,2882,1853,388,475328.4,timelimit,False,23999.7,5962,894300,890550,0,DUS,2025-04-27..2025-05-03,7,153,388,227,78,78,83,optimal,83083590.0,94.6

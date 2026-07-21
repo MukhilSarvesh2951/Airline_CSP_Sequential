@@ -1,0 +1,25 @@
+==============================================================================
+  PAIRING
+    pairings generated      388
+    crew cost               EUR 475,328.40
+    legs covered            18532882 reachable
+  ROSTERING
+    captains at DUS          153
+    assigned to line captains  227388
+    covered by RESERVE pool    7878 (pro-rated from monthly standby)
+    still UNCOVERED            83   -- gap beyond line + reserve capacity
+    captains used           148153
+    off-claims MAD          3.65 days   (6153 captains hit target exactly)
+    soft off-request days   73 requested
+
+  NOTE ON UNCOVERED PAIRINGS
+    83 pairings remain uncovered even after using the
+    full reserve budget (78 shifts). Most pairings span
+    the whole 7-day window; only 134153 captains are
+    fully available, and the pro-rated reserve pool covers 78 more.
+    The residual 83 is a genuine crew-capacity shortfall for
+    this window -- it would require additional reserves or schedule change.
+
+  wall time 24116.0s
+
+  Exported roster_DUS_20260720_0423.csv, captains_DUS_20260720_0423.csv, summary_DUS_20260720_0423.csv

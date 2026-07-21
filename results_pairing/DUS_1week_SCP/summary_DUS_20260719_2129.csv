@@ -1,0 +1,2 @@
+n_pairings,crew_cost,legs_covered,legs_reachable,converged,status,roster_base,roster_window,roster_horizon_days,roster_captains,roster_pairings,roster_assigned_line,roster_reserve_budget,roster_reserve_used,roster_unassigned,roster_status,roster_objective,roster_secs
+586,786562.8,2830,2830,False,loaded from pairings_DUS_20260719_2004.csv,DUS,2025-04-27..2025-05-03,7,153,586,293,78,78,215,optimal,215085950.0,1301.4

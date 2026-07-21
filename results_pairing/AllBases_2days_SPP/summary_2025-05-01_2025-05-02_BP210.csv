@@ -1,0 +1,2 @@
+start_date,end_date,status,pricing_rounds,columns_generated,columns_pruned,columns_active,bnb_nodes,ryan_foster_branches,pairings_selected,legs_total,legs_coverable,legs_covered,coverage_pct_coverable,true_crew_cost_eur,lp_objective_eur,artificials_used,optimality_gap_pct,wall_time_s
+2025-05-01,2025-05-02,timelimit,430,11311,0,11311,211,210,161,861,749,714,95.33,154930.4,14854930.4,147,0.0033,1803.4
